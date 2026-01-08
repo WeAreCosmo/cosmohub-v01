@@ -31,6 +31,13 @@ export default function DashboardPage() {
             <li>Create campaign flow (name, dates, objective)</li>
             <li>Clause-based T&amp;Cs editor (rails + versioning)</li>
             <li>Mock insights panel (“What we’re learning”)</li>
+            <a
+  href="/terms"
+  className="inline-flex items-center justify-center rounded-md border px-4 py-2 text-sm font-medium w-fit"
+>
+  Terms & Conditions
+</a>
+
           </ul>
         </section>
       </div>
